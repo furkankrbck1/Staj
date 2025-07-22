@@ -47,6 +47,6 @@ Bu proje, bilgisayar kamerası aracılığıyla işaret dili hareketlerini tanı
 
 ## Veri Kümesi
 
-- **Kullanılan Veri Kümesi:** [American Sign Language (ASL) Alphabet Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
+- **Kullanılan Veri Kümesi:** (https://www.kaggle.com/datasets/feronial/turkish-sign-languagefinger-spelling/data)
 - **Alternatif:** El ile oluşturulan özel veri seti
 - **Etiketler:** Harfler ve temel kelimeler
