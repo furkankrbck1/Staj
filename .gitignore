@@ -1,0 +1,13 @@
+# Model dosyalarını hariç tut
+*.h5
+*.hdf5
+best_model.h5
+sign_language_model.h5
+
+# Eğitim loglarını hariç tut
+training_log.csv
+
+# Python cache dosyalarını hariç tut
+__pycache__/
+*.py[cod]
+*$py.class
